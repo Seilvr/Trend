@@ -20243,7 +20243,7 @@ keyboard.inline_keyboard = {
 {{text = '- لتنصيب بوت .',url="https://t.me/II_T9"}},
 }
 local msg_id = msg.id/2097152/0.5
-return https.request("https://api.telegram.org/bot"..Token..'/sendPhoto?chat_id=' .. msg.chat_id .. '&photo=https://t.me/fff88883/7&caption=' .. URL.escape([[
+return https.request("https://api.telegram.org/bot"..Token..'/sendPhoto?chat_id=' .. msg.chat_id .. '&photo=https://t.me/vvivvvvviv/35&caption=' .. URL.escape([[
 *⦑ Welcome to Source ⦒
 ✯ ⦑ SOURCE Trend ⦒
 ✯ Source version : 2.0* 
