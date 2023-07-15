@@ -22288,7 +22288,7 @@ data = {
 },
 }
 }
-return merolua.sendText(msg_chat_id,msg_id,'✯︙اهلا بك عزيزي المطور\n✯︙اليك اوامر الكيبورد الخاصه بك\n✯︙تابع قناة السورس لتصلك اخر المنشورات @YIIBT\n✯︙تابع قناة التحديثات لتصلك اخر المنشورات @YIIDT', 'md', false, false, false, false, reply_markup)
+return merolua.sendText(msg_chat_id,msg_id,'✯︙اهلا بك عزيزي المطور\n✯︙اليك اوامر الكيبورد الخاصه بك\n✯︙تابع قناة السورس لتصلك اخر المنشورات @II_T9\n✯︙تابع قناة التحديثات لتصلك اخر المنشورات @II_T0', 'md', false, false, false, false, reply_markup)
 end
 end
 
